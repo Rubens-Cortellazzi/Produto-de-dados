@@ -1,0 +1,16 @@
+Package: pacoteFRT
+Type: Package
+Title: Regressão Linear desenvolvida
+Version: 0.1.4
+Author: Felipe Marques, Pedro Galera, Rubens Roncato, Tiago Monteiro e Vitor Rizzo.
+Maintainer: The package maintainer <r236292@dac.unicamp.br>
+Description: É um pacote útil para realizar a regressão linear, tanto a simples
+              quanto a múltipla, sendo mais recomendada pela múltipla, porque 
+              possui métodos de seleção de variável.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Import: leaps
+Depends: 
+    R (>= 2.10)
